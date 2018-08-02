@@ -1,2 +1,2 @@
 # python_projects
-Small python projects for a beginner (me)
+Small python projects by a beginner (me)
